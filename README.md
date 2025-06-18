@@ -32,7 +32,7 @@ A Python GUI tool for combining double-page images from magazines, manga, or pho
 - First image sets dimensions (height read-only).
 
 - Second image must match height (e.g., 2799 pixels).
-  Click "Combine Images".
+- Click "Combine Images".
 
 
 ### Option 2: Python Script
@@ -42,13 +42,13 @@ Requires Python 3.6+ and dependencies.
    bash
    ```pip install Pillow tkinterdnd2```
    
-Run:
+## Run:
 bash
 
 ```python image_combiner_gui.py```
 
 Usage
-- Open ImageCombiner.exe or run python image_combiner_gui.py.
+- run the command python image_combiner_gui.py.
 
 - Add two images (PNG, JPG, JPEG) via drag-and-drop or browse.
 
@@ -56,10 +56,8 @@ Usage
 
 - Second image must match height (e.g., 2799 pixels).
 
-
 - Click "Combine Images".
 
-### Output: JPG with timestamp in the first image’s folder.
 
 Example
 Input: page1.png, page2.png (1979x2799).
