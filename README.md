@@ -24,6 +24,17 @@ A Python GUI tool for combining double-page images from magazines, manga, or pho
 1.1. Download `ImageCombiner.exe` from [releases](https://github.com/ShawnNogi/DoublePageImageCombiner/releases/tag/v1.0.0) or [bin/ImageCombiner.exe](bin/ImageCombiner.exe).
 2. Double-click to run.
 
+### Usage
+- Open ImageCombiner.exe or run python image_combiner_gui.py.
+
+- Add two images (PNG, JPG, JPEG) via drag-and-drop or browse.
+
+- First image sets dimensions (height read-only).
+
+- Second image must match height (e.g., 2799 pixels).
+  Click "Combine Images".
+
+
 ### Option 2: Python Script
 Requires Python 3.6+ and dependencies.
 1. Download [image_combiner_gui.py](image_combiner_gui.py).
@@ -48,9 +59,9 @@ Usage
 
 - Click "Combine Images".
 
-Output: JPG with timestamp in the first image’s folder.
+### Output: JPG with timestamp in the first image’s folder.
 
-###Example
+Example
 Input: page1.png, page2.png (1979x2799).
 
 Output: combined_image_20250618_013101.jpg (3958x2799).
@@ -59,20 +70,20 @@ Output: combined_image_20250618_013101.jpg (3958x2799).
 
 
 
-####Dependencies
+## Dependencies
 Python 3.6+
 Pillow
 tkinterdnd2
 
 
 
-#####Building the Executable
+### Building the Executable
 bash
 
 ```pip install pyinstaller```
 ```pyinstaller --onefile --windowed --name ImageCombiner image_combiner_gui.py```
 
-#######License
+## License
 MIT License (see LICENSE).
 Contributing
 Open issues or pull requests.
