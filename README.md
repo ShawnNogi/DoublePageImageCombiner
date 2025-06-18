@@ -55,10 +55,16 @@ Input: page1.png, page2.png (1979x2799).
 
 Output: combined_image_20250618_013101.jpg (3958x2799).
 
+
+
+
+
 Dependencies
 Python 3.6+
 Pillow
 tkinterdnd2
+
+
 
 Building the Executable
 bash
