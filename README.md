@@ -41,12 +41,7 @@ Requires Python 3.6+ and dependencies.
 2. Install dependencies:
    bash
    ```pip install Pillow tkinterdnd2```
-   
-## Run:
-bash
-
-```python image_combiner_gui.py```
-
+ 
 Usage
 - run the command python image_combiner_gui.py.
 
