@@ -21,7 +21,7 @@ A Python GUI tool for combining double-page images from magazines, manga, or pho
 ## Installation
 
 ### Option 1: Windows Executable (Recommended)
-1. Download `ImageCombiner.exe` from [releases](https://github.com/ShawnNogi/DoublePageImageCombiner/releases) or [bin/ImageCombiner.exe](bin/ImageCombiner.exe).
+1.1. Download `ImageCombiner.exe` from [releases](https://github.com/ShawnNogi/DoublePageImageCombiner/releases/tag/v1.0.0) or [bin/ImageCombiner.exe](bin/ImageCombiner.exe).
 2. Double-click to run.
 
 ### Option 2: Python Script
