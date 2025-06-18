@@ -1,6 +1,6 @@
 # DoublePageImageCombiner
 
-A Python GUI tool for combining double-page images from magazines, manga, or photobooks, such as those from Kindle, Shueisha, or other sources. It merges two images side-by-side into a single JPG, ideal for seamless spreads.
+A Windows GUI tool for combining double-page images from magazines, manga, or photobooks, such as those from Kindle, Shueisha, or other sources. It merges two images side-by-side into a single JPG, ideal for seamless spreads.
 
 ## Features
 - Drag-and-drop or browse images.
