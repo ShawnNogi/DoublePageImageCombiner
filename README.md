@@ -50,7 +50,7 @@ Usage
 
 Output: JPG with timestamp in the first image’s folder.
 
-Example
+###Example
 Input: page1.png, page2.png (1979x2799).
 
 Output: combined_image_20250618_013101.jpg (3958x2799).
@@ -59,20 +59,20 @@ Output: combined_image_20250618_013101.jpg (3958x2799).
 
 
 
-Dependencies
+###Dependencies
 Python 3.6+
 Pillow
 tkinterdnd2
 
 
 
-Building the Executable
+###Building the Executable
 bash
 
 ```pip install pyinstaller```
 ```pyinstaller --onefile --windowed --name ImageCombiner image_combiner_gui.py```
 
-License
+###License
 MIT License (see LICENSE).
 Contributing
 Open issues or pull requests.
