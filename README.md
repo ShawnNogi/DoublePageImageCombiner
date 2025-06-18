@@ -37,17 +37,16 @@ bash
 ```python image_combiner_gui.py```
 
 Usage
-Open ImageCombiner.exe or run python image_combiner_gui.py.
+- Open ImageCombiner.exe or run python image_combiner_gui.py.
 
-Add two images (PNG, JPG, JPEG) via drag-and-drop or browse.
+- Add two images (PNG, JPG, JPEG) via drag-and-drop or browse.
 
-First image sets dimensions (height read-only).
+- First image sets dimensions (height read-only).
 
-Second image must match height (e.g., 2799 pixels).
+- Second image must match height (e.g., 2799 pixels).
 
-Edit width if needed.
 
-Click "Combine Images".
+- Click "Combine Images".
 
 Output: JPG with timestamp in the first image’s folder.
 
