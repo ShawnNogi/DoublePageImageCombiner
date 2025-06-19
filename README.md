@@ -64,9 +64,7 @@ Output: combined_image_20250618_013101.jpg (3958x2799).
 
 
 ## Dependencies
-Python 3.6+
-Pillow
-tkinterdnd2
+Python 3.6+, Pillow, tkinterdnd2
 
 
 
